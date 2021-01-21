@@ -34,10 +34,7 @@
     <Reference Include="System" />
     <Reference Include="System.Xml" />
     <Reference Include="System.Core" />
-    <Reference Include="WebRTC.iOS.Binding, Version=1.0.7428.21839, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\WebRTC.iOS.Binding\bin\Debug\WebRTC.iOS.Binding.dll</HintPath>
-    </Reference>
-    <Reference Include="WebRTC.iOS.Binding, Version=1.0.7463.17653, Culture=neutral, PublicKeyToken=null">
+    <Reference Include="WebRTC.iOS.Binding, Version=1.0.7530.31615, Culture=neutral, PublicKeyToken=null">
       <HintPath>..\WebRTC.iOS.Binding\bin\Debug\WebRTC.iOS.Binding.dll</HintPath>
     </Reference>
     <Reference Include="Xamarin.iOS" />
@@ -76,6 +73,7 @@
     <Compile Include="RtpReceiverNative.cs" />
     <Compile Include="RtpSenderNative.cs" />
     <Compile Include="RtpTransceiverNative.cs" />
+    <Compile Include="VideoFrameNative.cs" />
     <Compile Include="VideoSourceNative.cs" />
     <Compile Include="VideoTrackNative.cs" />
     <Compile Include="Platform.cs" />

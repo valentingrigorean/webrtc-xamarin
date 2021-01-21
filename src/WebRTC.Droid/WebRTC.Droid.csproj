@@ -81,6 +81,7 @@
     <Compile Include="RtpTransceiverNative.cs" />
     <Compile Include="SdpObserverProxy.cs" />
     <Compile Include="VideoCapturerNative.cs" />
+    <Compile Include="VideoFrameNative.cs" />
     <Compile Include="VideoRendererNative.cs" />
     <Compile Include="VideoSourceNative.cs" />
     <Compile Include="VideoTrackNative.cs" />
