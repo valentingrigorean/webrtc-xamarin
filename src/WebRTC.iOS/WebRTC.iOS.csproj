@@ -42,9 +42,6 @@
     <Reference Include="Xamarin.iOS" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Resources\" />
-  </ItemGroup>
-  <ItemGroup>
     <Compile Include="AudioSourceNative.cs" />
     <Compile Include="AudioTrackNative.cs" />
     <Compile Include="CameraVideoCapturerNative.cs" />
